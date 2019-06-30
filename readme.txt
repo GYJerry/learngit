@@ -7,11 +7,4 @@ Just do it.
 
 There must be something special.
 
-deleted dev one
-
-deleted dev two
-
-deleted dev2 one
-
-deleted dev2 two
 
